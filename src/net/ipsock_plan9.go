@@ -6,8 +6,8 @@ package net
 
 import (
 	"context"
-	"internal/bytealg"
-	"internal/itoa"
+	"intern/bytealg"
+	"intern/itoa"
 	"io/fs"
 	"os"
 	"syscall"

@@ -6,7 +6,7 @@ package net
 
 import (
 	"errors"
-	"internal/bytealg"
+	"intern/bytealg"
 	"os"
 	"sync"
 	"time"

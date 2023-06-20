@@ -17,7 +17,7 @@ package net
 import (
 	"context"
 	"errors"
-	"internal/itoa"
+	"intern/itoa"
 	"io"
 	"os"
 	"runtime"

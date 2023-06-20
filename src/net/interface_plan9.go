@@ -6,7 +6,7 @@ package net
 
 import (
 	"errors"
-	"internal/itoa"
+	"intern/itoa"
 	"os"
 )
 

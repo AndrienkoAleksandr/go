@@ -5,7 +5,7 @@
 package net
 
 import (
-	"internal/syscall/windows"
+	"intern/syscall/windows"
 	"os"
 	"syscall"
 )

@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"internal/testenv"
+	"intern/testenv"
 	"io"
 	"net/http"
 	"net/http/httptest"

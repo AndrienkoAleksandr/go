@@ -8,7 +8,7 @@
 
 package net
 
-import "internal/poll"
+import "intern/poll"
 
 // Network file descriptor.
 type netFD struct {

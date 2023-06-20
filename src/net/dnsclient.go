@@ -5,8 +5,8 @@
 package net
 
 import (
-	"internal/bytealg"
-	"internal/itoa"
+	"intern/bytealg"
+	"intern/itoa"
 	"sort"
 
 	"golang.org/x/net/dns/dnsmessage"

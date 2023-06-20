@@ -85,7 +85,7 @@ package net
 import (
 	"context"
 	"errors"
-	"internal/poll"
+	"intern/poll"
 	"io"
 	"os"
 	"sync"

@@ -11,7 +11,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"internal/testenv"
+	"intern/testenv"
 	"io"
 	"os"
 	"runtime"

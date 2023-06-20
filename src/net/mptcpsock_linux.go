@@ -7,8 +7,8 @@ package net
 import (
 	"context"
 	"errors"
-	"internal/poll"
-	"internal/syscall/unix"
+	"intern/poll"
+	"intern/syscall/unix"
 	"sync"
 	"syscall"
 )

@@ -13,8 +13,8 @@
 package net
 
 import (
-	"internal/bytealg"
-	"internal/itoa"
+	"intern/bytealg"
+	"intern/itoa"
 	"net/netip"
 )
 

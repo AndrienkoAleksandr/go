@@ -7,7 +7,7 @@
 package net
 
 import (
-	"internal/bytealg"
+	"intern/bytealg"
 	"runtime"
 	"syscall"
 )

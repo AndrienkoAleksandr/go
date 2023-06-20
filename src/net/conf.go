@@ -8,8 +8,8 @@ package net
 
 import (
 	"errors"
-	"internal/bytealg"
-	"internal/godebug"
+	"intern/bytealg"
+	"intern/godebug"
 	"io/fs"
 	"os"
 	"runtime"

@@ -6,8 +6,8 @@ package net
 
 import (
 	"context"
-	"internal/poll"
-	"internal/syscall/windows"
+	"intern/poll"
+	"intern/syscall/windows"
 	"os"
 	"runtime"
 	"syscall"

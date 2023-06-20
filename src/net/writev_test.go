@@ -9,7 +9,7 @@ package net
 import (
 	"bytes"
 	"fmt"
-	"internal/poll"
+	"intern/poll"
 	"io"
 	"reflect"
 	"runtime"

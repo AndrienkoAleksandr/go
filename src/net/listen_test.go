@@ -8,7 +8,7 @@ package net
 
 import (
 	"fmt"
-	"internal/testenv"
+	"intern/testenv"
 	"os"
 	"runtime"
 	"syscall"

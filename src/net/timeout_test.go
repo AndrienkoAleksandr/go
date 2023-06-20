@@ -9,9 +9,9 @@ package net
 import (
 	"errors"
 	"fmt"
-	"internal/testenv"
+	"intern/testenv"
 	"io"
-	"net/internal/socktest"
+	"net/intern/socktest"
 	"os"
 	"runtime"
 	"sync"

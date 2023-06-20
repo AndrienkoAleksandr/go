@@ -10,7 +10,7 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"net/internal/socktest"
+	"net/intern/socktest"
 	"os"
 	"runtime"
 	"testing"

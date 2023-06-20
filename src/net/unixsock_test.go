@@ -8,7 +8,7 @@ package net
 
 import (
 	"bytes"
-	"internal/testenv"
+	"intern/testenv"
 	"os"
 	"reflect"
 	"runtime"

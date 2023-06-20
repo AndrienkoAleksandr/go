@@ -10,7 +10,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"internal/testenv"
+	"intern/testenv"
 	"net/netip"
 	"reflect"
 	"runtime"

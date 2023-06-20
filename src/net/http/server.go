@@ -13,7 +13,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"internal/godebug"
+	"intern/godebug"
 	"io"
 	"log"
 	"math/rand"

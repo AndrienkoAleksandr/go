@@ -8,7 +8,7 @@ package net
 
 import (
 	"errors"
-	"internal/testenv"
+	"intern/testenv"
 	"net/netip"
 	"os"
 	"reflect"

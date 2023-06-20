@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"net"
 	"net/http"
-	"net/http/internal/ascii"
+	"net/http/intern/ascii"
 	"net/url"
 	"sort"
 	"strings"

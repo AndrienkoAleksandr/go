@@ -7,7 +7,7 @@
 package net
 
 import (
-	"internal/itoa"
+	"intern/itoa"
 	"syscall"
 	"time"
 )

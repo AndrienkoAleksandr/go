@@ -7,7 +7,7 @@
 package net
 
 import (
-	"internal/syscall/windows/registry"
+	"intern/syscall/windows/registry"
 	"os"
 	"reflect"
 	"runtime"

@@ -10,7 +10,7 @@
 package net
 
 import (
-	"internal/testenv"
+	"intern/testenv"
 	"os"
 	"runtime"
 	"testing"

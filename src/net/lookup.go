@@ -7,8 +7,8 @@ package net
 import (
 	"context"
 	"errors"
-	"internal/nettrace"
-	"internal/singleflight"
+	"intern/nettrace"
+	"intern/singleflight"
 	"net/netip"
 	"sync"
 

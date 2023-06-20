@@ -7,7 +7,7 @@
 package net
 
 import (
-	"internal/testenv"
+	"intern/testenv"
 	"reflect"
 	"testing"
 )

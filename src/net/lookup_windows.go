@@ -6,7 +6,7 @@ package net
 
 import (
 	"context"
-	"internal/syscall/windows"
+	"intern/syscall/windows"
 	"os"
 	"runtime"
 	"syscall"

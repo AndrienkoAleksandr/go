@@ -7,8 +7,8 @@ package pprof
 import (
 	"bytes"
 	"fmt"
-	"internal/profile"
-	"internal/testenv"
+	"intern/profile"
+	"intern/testenv"
 	"io"
 	"net/http"
 	"net/http/httptest"

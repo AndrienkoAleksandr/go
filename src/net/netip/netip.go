@@ -16,9 +16,9 @@ import (
 	"math"
 	"strconv"
 
-	"internal/bytealg"
-	"internal/intern"
-	"internal/itoa"
+	"intern/bytealg"
+	"intern/intern"
+	"intern/itoa"
 )
 
 // Sizes: (64-bit)

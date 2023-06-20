@@ -7,7 +7,7 @@
 package net
 
 import (
-	"internal/syscall/unix"
+	"intern/syscall/unix"
 	"runtime"
 	"syscall"
 	"unsafe"

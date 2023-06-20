@@ -4,7 +4,7 @@
 
 package netip
 
-import "internal/intern"
+import "intern/intern"
 
 var (
 	Z0    = z0

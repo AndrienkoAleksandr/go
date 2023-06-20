@@ -7,8 +7,8 @@ package net
 import (
 	"context"
 	"errors"
-	"internal/bytealg"
-	"internal/itoa"
+	"intern/bytealg"
+	"intern/itoa"
 	"io"
 	"os"
 )

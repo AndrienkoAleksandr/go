@@ -6,7 +6,7 @@ package net
 
 import (
 	"context"
-	"internal/bytealg"
+	"intern/bytealg"
 	"runtime"
 	"sync"
 )

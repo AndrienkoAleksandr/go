@@ -6,7 +6,7 @@ package net
 
 import (
 	"context"
-	"internal/itoa"
+	"intern/itoa"
 	"io"
 	"net/netip"
 	"os"

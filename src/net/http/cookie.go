@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"net/http/internal/ascii"
+	"net/http/intern/ascii"
 	"net/textproto"
 	"strconv"
 	"strings"

@@ -5,7 +5,7 @@
 package socktest
 
 import (
-	"internal/syscall/windows"
+	"intern/syscall/windows"
 	"syscall"
 )
 

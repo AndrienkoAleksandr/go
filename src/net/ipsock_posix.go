@@ -8,7 +8,7 @@ package net
 
 import (
 	"context"
-	"internal/poll"
+	"intern/poll"
 	"net/netip"
 	"runtime"
 	"syscall"

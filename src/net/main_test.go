@@ -9,7 +9,7 @@ package net
 import (
 	"flag"
 	"fmt"
-	"net/internal/socktest"
+	"net/intern/socktest"
 	"os"
 	"runtime"
 	"sort"

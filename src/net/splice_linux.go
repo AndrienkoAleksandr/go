@@ -5,7 +5,7 @@
 package net
 
 import (
-	"internal/poll"
+	"intern/poll"
 	"io"
 )
 

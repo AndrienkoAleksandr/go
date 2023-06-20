@@ -14,7 +14,7 @@ import (
 	"log"
 	"net"
 	"net/http"
-	"net/http/internal/testcert"
+	"net/http/intern/testcert"
 	"os"
 	"strings"
 	"sync"

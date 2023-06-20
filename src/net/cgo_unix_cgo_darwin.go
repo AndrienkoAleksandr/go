@@ -12,7 +12,7 @@ package net
 import "C"
 
 import (
-	"internal/syscall/unix"
+	"intern/syscall/unix"
 	"unsafe"
 )
 

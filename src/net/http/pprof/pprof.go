@@ -75,7 +75,7 @@ import (
 	"context"
 	"fmt"
 	"html"
-	"internal/profile"
+	"intern/profile"
 	"io"
 	"log"
 	"net/http"

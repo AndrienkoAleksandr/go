@@ -5,7 +5,7 @@
 package net
 
 import (
-	"internal/testenv"
+	"intern/testenv"
 	"os"
 	"os/exec"
 	"runtime"

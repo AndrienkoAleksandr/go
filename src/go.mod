@@ -1,4 +1,4 @@
-module std
+module github.com/AndrienkoAleksandr/go
 
 go 1.21
 

@@ -5,7 +5,7 @@
 package errors
 
 import (
-	"internal/reflectlite"
+	"github.com/AndrienkoAleksandr/go/src/intern/reflectlite"
 )
 
 // Unwrap returns the result of calling the Unwrap method on err, if err's

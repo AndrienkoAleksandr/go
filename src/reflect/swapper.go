@@ -5,7 +5,7 @@
 package reflect
 
 import (
-	"internal/abi"
+	"github.com/AndrienkoAleksandr/go/src/intern/abi"
 	"internal/goarch"
 	"internal/unsafeheader"
 	"unsafe"

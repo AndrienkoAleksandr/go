@@ -9,7 +9,7 @@
 package reflectlite_test
 
 import (
-	. "internal/reflectlite"
+	. "github.com/AndrienkoAleksandr/go/src/intern/reflectlite"
 	"reflect"
 	"strconv"
 )

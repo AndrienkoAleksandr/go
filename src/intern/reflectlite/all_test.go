@@ -7,8 +7,8 @@ package reflectlite_test
 import (
 	"encoding/base64"
 	"fmt"
-	"internal/abi"
-	. "internal/reflectlite"
+	"github.com/AndrienkoAleksandr/go/src/intern/abi"
+	. "github.com/AndrienkoAleksandr/go/src/intern/reflectlite"
 	"math"
 	"reflect"
 	"runtime"

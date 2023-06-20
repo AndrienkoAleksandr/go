@@ -7,7 +7,7 @@
 package reflectlite
 
 import (
-	"internal/abi"
+	"github.com/AndrienkoAleksandr/go/src/intern/abi"
 	"unsafe"
 )
 

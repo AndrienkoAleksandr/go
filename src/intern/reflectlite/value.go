@@ -5,9 +5,9 @@
 package reflectlite
 
 import (
-	"internal/abi"
-	"internal/goarch"
-	"internal/unsafeheader"
+	"github.com/AndrienkoAleksandr/go/src/intern/abi"
+	"github.com/AndrienkoAleksandr/go/src/intern/goarch"
+	"github.com/AndrienkoAleksandr/go/src/intern/unsafeheader"
 	"runtime"
 	"unsafe"
 )

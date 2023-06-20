@@ -5,7 +5,7 @@
 package abi
 
 import (
-	"internal/goarch"
+	"github.com/AndrienkoAleksandr/go/src/intern/goarch"
 	"unsafe"
 )
 

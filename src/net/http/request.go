@@ -12,7 +12,7 @@ import (
 	"context"
 	"crypto/tls"
 	"encoding/base64"
-	"errors"
+	"github.com/AndrienkoAleksandr/go/src/errors"
 	"fmt"
 	"io"
 	"mime"

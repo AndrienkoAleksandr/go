@@ -27,7 +27,7 @@ import (
 	"net/http/httptrace"
 	"net/http/httputil"
 	"net/http/intern/testcert"
-	"net/http/internal"
+	"net/http/intern"
 	"net/url"
 	"os"
 	"os/exec"

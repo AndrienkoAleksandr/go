@@ -12,7 +12,6 @@ import (
 	"io"
 	"net/http/httptrace"
 	"net/http/intern/ascii"
-	"net/http/internal"
 	"net/textproto"
 	"reflect"
 	"sort"
@@ -21,6 +20,7 @@ import (
 	"sync"
 	"time"
 
+	"github.com/AndrienkoAleksandr/go/src/net/http/internal"
 	"golang.org/x/net/http/httpguts"
 )
 

@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	internal "github.com/AndrienkoAleksandr/go/net/http/intern"
+	internal "github.com/AndrienkoAleksandr/go/src/net/http/intern"
 	"golang.org/x/net/http/httpguts"
 )
 

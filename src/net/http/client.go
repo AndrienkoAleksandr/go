@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"net/http/intern/ascii"
+	"intern/ascii"
 	"net/url"
 	"reflect"
 	"sort"

@@ -13,11 +13,11 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"github.com/AndrienkoAleksandr/go/src/intern/godebug"
 	"io"
 	"log"
 	"math/rand"
 	"net"
+	"net/http"
 	"net/textproto"
 	"net/url"
 	urlpkg "net/url"
@@ -29,6 +29,8 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
+
+	"github.com/AndrienkoAleksandr/go/src/intern/godebug"
 
 	"golang.org/x/net/http/httpguts"
 )
@@ -84,7 +86,7 @@ var (
 // the client sees an interrupted response but the server doesn't log
 // an error, panic with the value ErrAbortHandler.
 type Handler interface {
-	ServeHTTP(ResponseWriter, *Request)
+	ServeHTTP(http.ResponseWriter, *http.Request)
 }
 
 // A ResponseWriter interface is used by an HTTP handler to

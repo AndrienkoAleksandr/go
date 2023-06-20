@@ -34,8 +34,8 @@ package godebug
 // meaning it cannot introduce a GODEBUG setting of its own.
 // We keep imports to the absolute bare minimum.
 import (
-	"internal/bisect"
-	"internal/godebugs"
+	"github.com/AndrienkoAleksandr/go/src/intern/bisect"
+	"github.com/AndrienkoAleksandr/go/src/intern/godebugs"
 	"sync"
 	"sync/atomic"
 	"unsafe"

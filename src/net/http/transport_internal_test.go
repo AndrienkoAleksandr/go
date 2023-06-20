@@ -12,7 +12,7 @@ import (
 	"errors"
 	"io"
 	"net"
-	"net/http/intern/testcert"
+	"github.com/AndrienkoAleksandr/go/src/net/http/intern/testcert"
 	"strings"
 	"testing"
 )

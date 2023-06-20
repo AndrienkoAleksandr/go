@@ -21,7 +21,7 @@ import (
 	"errors"
 	"fmt"
 	"go/token"
-	"intern/nettrace"
+	"github.com/AndrienkoAleksandr/go/src/intern/nettrace"
 	"io"
 	"log"
 	mrand "math/rand"

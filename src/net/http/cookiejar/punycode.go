@@ -8,7 +8,7 @@ package cookiejar
 
 import (
 	"fmt"
-	"net/http/intern/ascii"
+	"github.com/AndrienkoAleksandr/go/src/net/http/intern/ascii"
 	"strings"
 	"unicode/utf8"
 )

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"net"
 	"net/http"
-	"net/http/intern/ascii"
+	"github.com/AndrienkoAleksandr/go/src/net/http/intern/ascii"
 	"net/url"
 	"sort"
 	"strings"

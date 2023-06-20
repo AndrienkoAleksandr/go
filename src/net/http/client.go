@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"intern/ascii"
+	"github.com/AndrienkoAleksandr/go/src/net/http/intern/ascii"
 	"net/url"
 	"reflect"
 	"sort"

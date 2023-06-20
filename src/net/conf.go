@@ -9,7 +9,7 @@ package net
 import (
 	"errors"
 	"intern/bytealg"
-	"intern/godebug"
+	"github.com/AndrienkoAleksandr/go/src/net/intern/godebug"
 	"io/fs"
 	"os"
 	"runtime"

@@ -9,7 +9,7 @@ package http
 import (
 	"errors"
 	"fmt"
-	"intern/safefilepath"
+	"github.com/AndrienkoAleksandr/go/src/intern/safefilepath"
 	"io"
 	"io/fs"
 	"mime"

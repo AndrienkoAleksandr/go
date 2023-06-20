@@ -13,7 +13,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"intern/godebug"
+	"github.com/AndrienkoAleksandr/go/src/intern/godebug"
 	"io"
 	"log"
 	"math/rand"

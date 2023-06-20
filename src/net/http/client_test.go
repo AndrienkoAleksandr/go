@@ -13,7 +13,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	"intern/testenv"
+	"github.com/AndrienkoAleksandr/go/src/intern/testenv"
 	"io"
 	"log"
 	"net"

@@ -9,7 +9,7 @@ package httputil
 import (
 	"io"
 
-	"github.com/AndrienkoAleksandr/go/src/net/http/internal"
+	"github.com/AndrienkoAleksandr/go/net/http/internal"
 )
 
 // NewChunkedReader returns a new chunkedReader that translates the data read from r
